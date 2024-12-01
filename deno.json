@@ -1,0 +1,6 @@
+{
+  "workspace": ["./day-1"],
+  "tasks": {
+    "solve": "deno task --recursive -f \"day-*\" answer"
+  }
+}

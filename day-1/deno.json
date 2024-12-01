@@ -1,0 +1,7 @@
+{
+  "name": "@scope/day-1",
+  "tasks": {
+    "answer": "deno run --allow-read=input.txt main.ts"
+  },
+  "exports": "./main.ts"
+}
